@@ -2,7 +2,7 @@ public class Hello
 {
 	public static void man (String argv[])
 	{
-	//Default is "World"
+	//This is an unwanted but staged comment
 	String name = "World";
 	if (argv.length != 0)
 	{
